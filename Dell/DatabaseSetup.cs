@@ -9,10 +9,10 @@ namespace Dell
 {
     public class DatabaseSetup
     {
+        public const string connectionString = @"Server=RADU\SQLEXPRESS;Database=testdb01;Trusted_Connection=True;";
+
         public static void CreateDatabase()
         {
-            string connectionString = @"Server=RADU\SQLEXPRESS;Database=testdb01;Trusted_Connection=True;";
-
             var configuration = Fluently.Configure()
                 .Database(MsSqlConfiguration.MsSql2008.ConnectionString(connectionString).ShowSql)
                 .Mappings(m => m.FluentMappings.AddFromAssemblyOf<CustomerMap>())

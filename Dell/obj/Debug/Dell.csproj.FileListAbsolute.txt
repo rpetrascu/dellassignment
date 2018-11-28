@@ -77,7 +77,6 @@ c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Micro
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Microsoft.Owin.Security.Google.xml
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\obj\Debug\Dell.csprojResolveAssemblyReference.cache
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\obj\Debug\Dell.dll
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\obj\Debug\Dell.pdb
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\FluentNHibernate.dll
