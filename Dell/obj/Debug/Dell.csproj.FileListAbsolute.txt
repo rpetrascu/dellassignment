@@ -87,3 +87,4 @@ c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Iesi.
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\NHibernate.xml
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 c:\users\radu petrascu\documents\visual studio 2015\Projects\Dell\Dell\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Radu Petrascu\Documents\Visual Studio 2015\Projects\Dell\Dell\obj\Debug\Dell.csprojResolveAssemblyReference.cache
